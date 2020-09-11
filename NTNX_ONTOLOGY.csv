@@ -1,0 +1,31 @@
+﻿Source,Target
+Cloud,Services
+Cloud,Management
+Cloud,Provisioning
+Services,Desktop
+Services,Database
+Services,DR
+Services,Security
+Management,Provisioning
+Management,Performance
+Management,Database Copy
+Provisioning,Applications
+Provisioning,VM
+Provisioning,Containers
+Provisioning,Database
+Provisioning,Automation
+Security,Microsegmentation
+Security,Compliance
+Performance,Prism Pro
+Database Copy,ERA
+Applications,CALM
+VM,Prism
+VM,API
+Containers,Karbon
+Containers,CALM
+Database,ERA
+Automation,CALM
+Desktop,Frame
+DR,Leap
+DR,Metrocluster
+DR,NearSync
